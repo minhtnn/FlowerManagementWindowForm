@@ -1,0 +1,14 @@
+C:\Users\N.Minh- ADMIN\source\repos\Ass02Solution_PRN211_10W_mintnn\BusinessObjects\bin\Debug\net7.0\BusinessObjects.deps.json
+C:\Users\N.Minh- ADMIN\source\repos\Ass02Solution_PRN211_10W_mintnn\BusinessObjects\bin\Debug\net7.0\BusinessObjects.runtimeconfig.json
+C:\Users\N.Minh- ADMIN\source\repos\Ass02Solution_PRN211_10W_mintnn\BusinessObjects\bin\Debug\net7.0\BusinessObjects.dll
+C:\Users\N.Minh- ADMIN\source\repos\Ass02Solution_PRN211_10W_mintnn\BusinessObjects\bin\Debug\net7.0\BusinessObjects.pdb
+C:\Users\N.Minh- ADMIN\source\repos\Ass02Solution_PRN211_10W_mintnn\BusinessObjects\obj\Debug\net7.0\BusinessObjects.csproj.AssemblyReference.cache
+C:\Users\N.Minh- ADMIN\source\repos\Ass02Solution_PRN211_10W_mintnn\BusinessObjects\obj\Debug\net7.0\BusinessObjects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\N.Minh- ADMIN\source\repos\Ass02Solution_PRN211_10W_mintnn\BusinessObjects\obj\Debug\net7.0\BusinessObjects.AssemblyInfoInputs.cache
+C:\Users\N.Minh- ADMIN\source\repos\Ass02Solution_PRN211_10W_mintnn\BusinessObjects\obj\Debug\net7.0\BusinessObjects.AssemblyInfo.cs
+C:\Users\N.Minh- ADMIN\source\repos\Ass02Solution_PRN211_10W_mintnn\BusinessObjects\obj\Debug\net7.0\BusinessObjects.csproj.CoreCompileInputs.cache
+C:\Users\N.Minh- ADMIN\source\repos\Ass02Solution_PRN211_10W_mintnn\BusinessObjects\obj\Debug\net7.0\BusinessObjects.dll
+C:\Users\N.Minh- ADMIN\source\repos\Ass02Solution_PRN211_10W_mintnn\BusinessObjects\obj\Debug\net7.0\refint\BusinessObjects.dll
+C:\Users\N.Minh- ADMIN\source\repos\Ass02Solution_PRN211_10W_mintnn\BusinessObjects\obj\Debug\net7.0\BusinessObjects.pdb
+C:\Users\N.Minh- ADMIN\source\repos\Ass02Solution_PRN211_10W_mintnn\BusinessObjects\obj\Debug\net7.0\BusinessObjects.genruntimeconfig.cache
+C:\Users\N.Minh- ADMIN\source\repos\Ass02Solution_PRN211_10W_mintnn\BusinessObjects\obj\Debug\net7.0\ref\BusinessObjects.dll

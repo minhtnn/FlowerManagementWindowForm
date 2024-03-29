@@ -1,0 +1,212 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\N.Minh- ADMIN\\source\\repos\\Ass02Solution_PRN211_10W_mintnn\\Repositories\\Repositories.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\N.Minh- ADMIN\\source\\repos\\Ass02Solution_PRN211_10W_mintnn\\BusinessObjects\\BusinessObjects.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\N.Minh- ADMIN\\source\\repos\\Ass02Solution_PRN211_10W_mintnn\\BusinessObjects\\BusinessObjects.csproj",
+        "projectName": "BusinessObjects",
+        "projectPath": "C:\\Users\\N.Minh- ADMIN\\source\\repos\\Ass02Solution_PRN211_10W_mintnn\\BusinessObjects\\BusinessObjects.csproj",
+        "packagesPath": "C:\\Users\\N.Minh- ADMIN\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\N.Minh- ADMIN\\source\\repos\\Ass02Solution_PRN211_10W_mintnn\\BusinessObjects\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\N.Minh- ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.22, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.22, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\N.Minh- ADMIN\\source\\repos\\Ass02Solution_PRN211_10W_mintnn\\DataAccessObjects\\DataAccessObjects.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\N.Minh- ADMIN\\source\\repos\\Ass02Solution_PRN211_10W_mintnn\\DataAccessObjects\\DataAccessObjects.csproj",
+        "projectName": "DataAccessObjects",
+        "projectPath": "C:\\Users\\N.Minh- ADMIN\\source\\repos\\Ass02Solution_PRN211_10W_mintnn\\DataAccessObjects\\DataAccessObjects.csproj",
+        "packagesPath": "C:\\Users\\N.Minh- ADMIN\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\N.Minh- ADMIN\\source\\repos\\Ass02Solution_PRN211_10W_mintnn\\DataAccessObjects\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\N.Minh- ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\N.Minh- ADMIN\\source\\repos\\Ass02Solution_PRN211_10W_mintnn\\BusinessObjects\\BusinessObjects.csproj": {
+                "projectPath": "C:\\Users\\N.Minh- ADMIN\\source\\repos\\Ass02Solution_PRN211_10W_mintnn\\BusinessObjects\\BusinessObjects.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\N.Minh- ADMIN\\source\\repos\\Ass02Solution_PRN211_10W_mintnn\\Repositories\\Repositories.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\N.Minh- ADMIN\\source\\repos\\Ass02Solution_PRN211_10W_mintnn\\Repositories\\Repositories.csproj",
+        "projectName": "Repositories",
+        "projectPath": "C:\\Users\\N.Minh- ADMIN\\source\\repos\\Ass02Solution_PRN211_10W_mintnn\\Repositories\\Repositories.csproj",
+        "packagesPath": "C:\\Users\\N.Minh- ADMIN\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\N.Minh- ADMIN\\source\\repos\\Ass02Solution_PRN211_10W_mintnn\\Repositories\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\N.Minh- ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\N.Minh- ADMIN\\source\\repos\\Ass02Solution_PRN211_10W_mintnn\\DataAccessObjects\\DataAccessObjects.csproj": {
+                "projectPath": "C:\\Users\\N.Minh- ADMIN\\source\\repos\\Ass02Solution_PRN211_10W_mintnn\\DataAccessObjects\\DataAccessObjects.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,17 @@
+C:\Users\N.Minh- ADMIN\source\repos\Ass02Solution_PRN211_10W_mintnn\Repositories\bin\Debug\net7.0\Repositories.deps.json
+C:\Users\N.Minh- ADMIN\source\repos\Ass02Solution_PRN211_10W_mintnn\Repositories\bin\Debug\net7.0\Repositories.dll
+C:\Users\N.Minh- ADMIN\source\repos\Ass02Solution_PRN211_10W_mintnn\Repositories\bin\Debug\net7.0\Repositories.pdb
+C:\Users\N.Minh- ADMIN\source\repos\Ass02Solution_PRN211_10W_mintnn\Repositories\bin\Debug\net7.0\BusinessObjects.dll
+C:\Users\N.Minh- ADMIN\source\repos\Ass02Solution_PRN211_10W_mintnn\Repositories\bin\Debug\net7.0\DataAccessObjects.dll
+C:\Users\N.Minh- ADMIN\source\repos\Ass02Solution_PRN211_10W_mintnn\Repositories\bin\Debug\net7.0\DataAccessObjects.pdb
+C:\Users\N.Minh- ADMIN\source\repos\Ass02Solution_PRN211_10W_mintnn\Repositories\bin\Debug\net7.0\BusinessObjects.pdb
+C:\Users\N.Minh- ADMIN\source\repos\Ass02Solution_PRN211_10W_mintnn\Repositories\obj\Debug\net7.0\Repositories.csproj.AssemblyReference.cache
+C:\Users\N.Minh- ADMIN\source\repos\Ass02Solution_PRN211_10W_mintnn\Repositories\obj\Debug\net7.0\Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\N.Minh- ADMIN\source\repos\Ass02Solution_PRN211_10W_mintnn\Repositories\obj\Debug\net7.0\Repositories.AssemblyInfoInputs.cache
+C:\Users\N.Minh- ADMIN\source\repos\Ass02Solution_PRN211_10W_mintnn\Repositories\obj\Debug\net7.0\Repositories.AssemblyInfo.cs
+C:\Users\N.Minh- ADMIN\source\repos\Ass02Solution_PRN211_10W_mintnn\Repositories\obj\Debug\net7.0\Repositories.csproj.CoreCompileInputs.cache
+C:\Users\N.Minh- ADMIN\source\repos\Ass02Solution_PRN211_10W_mintnn\Repositories\obj\Debug\net7.0\Reposito.787EC4B2.Up2Date
+C:\Users\N.Minh- ADMIN\source\repos\Ass02Solution_PRN211_10W_mintnn\Repositories\obj\Debug\net7.0\Repositories.dll
+C:\Users\N.Minh- ADMIN\source\repos\Ass02Solution_PRN211_10W_mintnn\Repositories\obj\Debug\net7.0\refint\Repositories.dll
+C:\Users\N.Minh- ADMIN\source\repos\Ass02Solution_PRN211_10W_mintnn\Repositories\obj\Debug\net7.0\Repositories.pdb
+C:\Users\N.Minh- ADMIN\source\repos\Ass02Solution_PRN211_10W_mintnn\Repositories\obj\Debug\net7.0\ref\Repositories.dll

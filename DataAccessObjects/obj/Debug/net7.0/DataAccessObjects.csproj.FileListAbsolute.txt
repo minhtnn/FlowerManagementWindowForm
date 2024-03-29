@@ -1,0 +1,15 @@
+C:\Users\N.Minh- ADMIN\source\repos\Ass02Solution_PRN211_10W_mintnn\DataAccessObjects\bin\Debug\net7.0\DataAccessObjects.deps.json
+C:\Users\N.Minh- ADMIN\source\repos\Ass02Solution_PRN211_10W_mintnn\DataAccessObjects\bin\Debug\net7.0\DataAccessObjects.dll
+C:\Users\N.Minh- ADMIN\source\repos\Ass02Solution_PRN211_10W_mintnn\DataAccessObjects\bin\Debug\net7.0\DataAccessObjects.pdb
+C:\Users\N.Minh- ADMIN\source\repos\Ass02Solution_PRN211_10W_mintnn\DataAccessObjects\bin\Debug\net7.0\BusinessObjects.dll
+C:\Users\N.Minh- ADMIN\source\repos\Ass02Solution_PRN211_10W_mintnn\DataAccessObjects\bin\Debug\net7.0\BusinessObjects.pdb
+C:\Users\N.Minh- ADMIN\source\repos\Ass02Solution_PRN211_10W_mintnn\DataAccessObjects\obj\Debug\net7.0\DataAccessObjects.csproj.AssemblyReference.cache
+C:\Users\N.Minh- ADMIN\source\repos\Ass02Solution_PRN211_10W_mintnn\DataAccessObjects\obj\Debug\net7.0\DataAccessObjects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\N.Minh- ADMIN\source\repos\Ass02Solution_PRN211_10W_mintnn\DataAccessObjects\obj\Debug\net7.0\DataAccessObjects.AssemblyInfoInputs.cache
+C:\Users\N.Minh- ADMIN\source\repos\Ass02Solution_PRN211_10W_mintnn\DataAccessObjects\obj\Debug\net7.0\DataAccessObjects.AssemblyInfo.cs
+C:\Users\N.Minh- ADMIN\source\repos\Ass02Solution_PRN211_10W_mintnn\DataAccessObjects\obj\Debug\net7.0\DataAccessObjects.csproj.CoreCompileInputs.cache
+C:\Users\N.Minh- ADMIN\source\repos\Ass02Solution_PRN211_10W_mintnn\DataAccessObjects\obj\Debug\net7.0\DataAcce.79975846.Up2Date
+C:\Users\N.Minh- ADMIN\source\repos\Ass02Solution_PRN211_10W_mintnn\DataAccessObjects\obj\Debug\net7.0\DataAccessObjects.dll
+C:\Users\N.Minh- ADMIN\source\repos\Ass02Solution_PRN211_10W_mintnn\DataAccessObjects\obj\Debug\net7.0\refint\DataAccessObjects.dll
+C:\Users\N.Minh- ADMIN\source\repos\Ass02Solution_PRN211_10W_mintnn\DataAccessObjects\obj\Debug\net7.0\DataAccessObjects.pdb
+C:\Users\N.Minh- ADMIN\source\repos\Ass02Solution_PRN211_10W_mintnn\DataAccessObjects\obj\Debug\net7.0\ref\DataAccessObjects.dll
